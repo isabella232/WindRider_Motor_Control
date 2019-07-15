@@ -1,0 +1,15 @@
+C:\Users\ejupy\source\repos\H-BridgeCommander\H-BridgeCommander\bin\Debug\H-BridgeCommander.exe.config
+C:\Users\ejupy\source\repos\H-BridgeCommander\H-BridgeCommander\bin\Debug\H-BridgeCommander.exe
+C:\Users\ejupy\source\repos\H-BridgeCommander\H-BridgeCommander\bin\Debug\H-BridgeCommander.pdb
+C:\Users\ejupy\source\repos\H-BridgeCommander\H-BridgeCommander\obj\Debug\H-BridgeCommander.csprojAssemblyReference.cache
+C:\Users\ejupy\source\repos\H-BridgeCommander\H-BridgeCommander\obj\Debug\MainWindow.g.cs
+C:\Users\ejupy\source\repos\H-BridgeCommander\H-BridgeCommander\obj\Debug\App.g.cs
+C:\Users\ejupy\source\repos\H-BridgeCommander\H-BridgeCommander\obj\Debug\H-BridgeCommander_MarkupCompile.cache
+C:\Users\ejupy\source\repos\H-BridgeCommander\H-BridgeCommander\obj\Debug\H-BridgeCommander_MarkupCompile.lref
+C:\Users\ejupy\source\repos\H-BridgeCommander\H-BridgeCommander\obj\Debug\MainWindow.baml
+C:\Users\ejupy\source\repos\H-BridgeCommander\H-BridgeCommander\obj\Debug\H-BridgeCommander.g.resources
+C:\Users\ejupy\source\repos\H-BridgeCommander\H-BridgeCommander\obj\Debug\H_BridgeCommander.Properties.Resources.resources
+C:\Users\ejupy\source\repos\H-BridgeCommander\H-BridgeCommander\obj\Debug\H-BridgeCommander.csproj.GenerateResource.cache
+C:\Users\ejupy\source\repos\H-BridgeCommander\H-BridgeCommander\obj\Debug\H-BridgeCommander.csproj.CoreCompileInputs.cache
+C:\Users\ejupy\source\repos\H-BridgeCommander\H-BridgeCommander\obj\Debug\H-BridgeCommander.exe
+C:\Users\ejupy\source\repos\H-BridgeCommander\H-BridgeCommander\obj\Debug\H-BridgeCommander.pdb
